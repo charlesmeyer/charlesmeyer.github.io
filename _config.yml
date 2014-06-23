@@ -1,0 +1,6 @@
+name: jekyll-reveal 
+markdown: redcarpet
+highlighter: pygments
+collections:
+  slides:
+    output: true

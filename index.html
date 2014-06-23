@@ -1,7 +1,15 @@
-<!DOCTYPE html>
-<html>
-<body>
-<h1>Hello World</h1>
-<p>This works!!</p>
-</body>
-</html>
+---
+layout: default
+title: Slides
+---
+
+<div id="home">
+  <h1>Slides</h1>
+  <ul>
+    {% for slide in site.slides %}
+    <li>
+      <a class="slide-entry" href="{{ slide.url }}">{{ slide.title}}</a>
+    </li>
+    {% endfor %}
+  </ul>
+</div>
