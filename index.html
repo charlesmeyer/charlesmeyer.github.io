@@ -1,15 +1,12 @@
 ---
-layout: default
-title: Slides
+layout: reveal
+title: not used. Use _config.yml!
 ---
 
-<div id="home">
-  <h1>Slides</h1>
-  <ul>
-    {% for slide in site.slides %}
-    <li>
-      <a class="slide-entry" href="{{ slide.url }}">{{ slide.title}}</a>
-    </li>
-    {% endfor %}
-  </ul>
-</div>
+{% for post in site.posts reversed %}
+<section data-markdown data-separator="^\n---\n$" data-vertical="^\n--\n$" data-notes="^Note:">
+<script type="text/template">
+{{ post.content }}
+</script>
+</section>
+{% endfor %}
