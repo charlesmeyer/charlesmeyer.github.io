@@ -77,7 +77,7 @@
 					{ src: '{{ ASSET_PATH }}/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
 					{ src: '{{ ASSET_PATH }}/plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
 					{ src: '{{ ASSET_PATH }}/plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
-          { src: '{{ ASSET_PATH }}plugin/math/math.js', async: true },
+          { src: '{{ ASSET_PATH }}/plugin/math/math.js', async: true },
 					{ src: '{{ ASSET_PATH }}/plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }
 				]
 			});
