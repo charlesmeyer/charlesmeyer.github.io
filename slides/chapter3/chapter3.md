@@ -40,7 +40,7 @@ You can find more [here](http://google.com).
 ##Some stuff
 
 1. things
-2. more things
+2. more things \(x^2\)
 3. other stuff
 
 </section>
