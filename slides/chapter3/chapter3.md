@@ -48,6 +48,7 @@ You can find more [here](http://google.com).
 <section>
 
 #Top
+$$x_f=x_i+v_it+\frac{1}{2}at^2$$
 
 </section>
 <section>
