@@ -9,6 +9,8 @@ group: navigation
 <h2>Class Slide Presentations</h2>
 <ul>
 {% for apage in site.pages %}
+{% if apage.tags contains 'slides' %}
 <li><a href="{{ apage.url }}">{{ apage.title }}</a></li>
+{% endif %}
 {% endfor %}
 </ul>
