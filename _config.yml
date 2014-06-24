@@ -9,12 +9,9 @@ gems:
   - jekyll-pandoc
 
 ## Markdown Parser 
-markdown: pandoc
-markdown_ext:  markdown,mkdown,mkdn,mkd,md,Rmd,rmd
-pandoc:
-  extensions: 
-    - smart
-    - mathjax
+markdown:      kramdown
+markdown_ext:  markdown,mkdown,mkdn,mkd,md
+
 
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
