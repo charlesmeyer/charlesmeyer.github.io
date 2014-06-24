@@ -5,10 +5,16 @@ permalink: /:categories/:year/:month/:day/:title
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 pygments: true
 
-markdown: redcarpet
+gems:
+  - jekyll-pandoc
 
-redcarpet:
-  extensions: ["no_intra_emphasis"]
+## Markdown Parser 
+markdown: pandoc
+markdown_ext:  markdown,mkdown,mkdn,mkd,md,Rmd,rmd
+pandoc:
+  extensions: 
+    - smart
+    - mathjax
 
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
