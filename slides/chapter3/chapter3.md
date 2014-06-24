@@ -66,6 +66,7 @@ $$x_f=x_i+v_it+\frac{1}{2}at^2$$
 
 $$k_{n+1} = n^2 + k_n^2 - k_{n-1}$$
 
+
 $$\frac{n!}{k!(n-k)!} = \binom{n}{k}$$
 
 </section>
@@ -74,8 +75,6 @@ $$\frac{n!}{k!(n-k)!} = \binom{n}{k}$$
 Maybe?
 
 This is a $$k_{n+1} = n^2 + k_n^2 - k_{n-1}$$ thing.
-
-What about $k_{n+1} = n^2 + k_n^2 - k_{n-1}$ thing?
 
 </section>
 <section>
@@ -87,4 +86,10 @@ $$
 \nabla \cdot \vec{\mathbf{B}} & = 0 \end{aligned}
 $$
 
+</section>
+<section>
+\begin{aligned}
+f = m a
+a = \frac{f}{m}
+= \frac{12.7N}{3.5\times10^5kg} = 3.6\times10^{-5} \sfrac{m}{s^2}
 </section>
