@@ -7,7 +7,7 @@ group: navigation
 {% include JB/setup %}
 
 <ul>
-{% for apage in site.pages %}
+{% for apage in site.pages | sort: 'title' %}
 {% if apage.tags contains 'slides' %}
 <li><a href="{{ apage.url }}">{{ apage.title }}</a></li>
 {% endif %}
