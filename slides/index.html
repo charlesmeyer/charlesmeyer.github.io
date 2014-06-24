@@ -8,6 +8,6 @@ group: navigation
 
 <h2>Class Slide Presentations</h2>
 <ul>
-{% assign pages_list = (site.pages | where: "category","slides") %}
+{% assign pages_list = site.tags.slides %}
 {% include JB/pages_list %}
 </ul>
