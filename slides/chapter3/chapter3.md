@@ -90,8 +90,8 @@ $$
 <section>
 $$
 \begin{aligned}
-f = m a
-a = \frac{f}{m}
-= \frac{12.7N}{3.5\times10^5kg} = 3.6\times10^{-5} \sfrac{m}{s^2}\end{aligned}
+f &= m a \\
+a &= \frac{f}{m} \\
+&= \frac{12.7N}{3.5\times10^5kg} = 3.6\times10^{-5} \sfrac{m}{s^2}\end{aligned}
 $$
 </section>
