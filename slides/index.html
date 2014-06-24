@@ -7,4 +7,7 @@ group: navigation
 {% include JB/setup %}
 
 <h2>Class Slide Presentations</h2>
-{{ site.pages | sort: 'title' }}
+<ul>
+{% assign pages_list = site.tags.slides | sort: 'title' %}
+{% include JB/pages_list %}
+</ul>
