@@ -23,6 +23,6 @@ You can find more [here](http://google.com).
 ![](James_Clerk_Maxwell.png)
 </section>
 <section>
-##The experiment
+##The experiment##
 ![](Speed_of_light.PNG)
 </section>
