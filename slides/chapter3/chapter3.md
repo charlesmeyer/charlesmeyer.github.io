@@ -25,5 +25,6 @@ You can find more [here](http://google.com).
 <section>
 The experiment
 ---------------
+
 ![](Speed_of_light.PNG)
 </section>
