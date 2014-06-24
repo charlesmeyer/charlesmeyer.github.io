@@ -12,6 +12,9 @@ gems:
 markdown:      kramdown
 markdown_ext:  markdown,mkdown,mkdn,mkd,md
 
+kramdown:
+  entity_output: as_char
+  parse_block_html: true
 
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
