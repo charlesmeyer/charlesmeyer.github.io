@@ -20,9 +20,9 @@ Things to know
 You can find more [here](http://google.com).
 </section>
 <section>
-!(James_Clerk_Maxwell.png)
+![](James_Clerk_Maxwell.png)
 </section>
 <section>
 ##The experiment
-!(Speed_of_light.PNG)
+![](Speed_of_light.PNG)
 </section>
