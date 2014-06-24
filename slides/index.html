@@ -8,6 +8,7 @@ group: navigation
 
 <h2>Class Slide Presentations</h2>
 <ul>
-{% assign pages_list = site.tags.slides %}
-{% include JB/pages_list %}
+{% for apage in site.pages %}
+<li><a href="{{ apage.url }}">{{ apage.title }}</a></li>
+{% endfor %}
 </ul>
