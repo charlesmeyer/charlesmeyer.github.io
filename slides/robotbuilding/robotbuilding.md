@@ -68,13 +68,13 @@ tags: "slides robotics"
 </section>
 <section>
 
-##Batteries
+##Solderless Breadboard
 ![](BB-32620.JPG)
 
 </section>
 <section>
 
-##Solderless Breadboard
+##Batteries
 ![](BC4AAW_sml.jpg)
 
 </section>
