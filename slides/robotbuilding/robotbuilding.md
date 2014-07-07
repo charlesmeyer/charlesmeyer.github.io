@@ -14,36 +14,117 @@ tags: "slides robotics"
 
 #Why Robots?#
 
+</section>
+<section>
+
+##Robotics Challenge#
+-Navigate to light emitting beacon
+-Avoid or traverse various obstacles
+-Team that completes each course in the least time wins
 
 </section>
 <section>
 
+##Requirements#
+-Fully autonomous robot
+-Max height 15cm
+-Less than 0.5 Kg
+-Safe
+
+</section>
+<section>
+
+#Stewardship
+-Facilities
+-Tools
+-Reusable components
+=Consumable Supplies
+
+</section>
+<section>
+
+#Safety
+
+</section>
+<section>
+
+#Components
+
+</section>
+<section>
+
+##Continuous Rotation Servo
 ![](HX5010.jpg)
 
 </section>
 <section>
 
+##Arduino Microcontroller
 ![](25086.jpg)
 
 </section>
 <section>
 
+##Batteries
 ![](BB-32620.JPG)
 
 </section>
 <section>
 
+##Solderless Breadboard
 ![](BC4AAW_sml.jpg)
 
 </section>
 <section>
 
+##Photo-resistors
 ![](PDV-P8103_sml.jpg)
 
 </section>
 <section>
 
+##Micro switches
 ![](ZMA00A150L04PC_sml.jpg)
+
+</section>
+<section>
+
+#Design considerations
+
+</section>
+<section>
+
+##Weight
+
+</section>
+<section>
+
+##Size
+
+</section>
+<section>
+
+##Stability
+
+</section>
+<section>
+
+##Climbing Ability
+
+</section>
+<section>
+
+##Speed
+
+</section>
+<section>
+
+##Looks 
+
+</section>
+<section>
+
+#Robot Examples
 
 </section>
 <section>
