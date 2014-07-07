@@ -18,27 +18,30 @@ tags: "slides robotics"
 <section>
 
 ##Robotics Challenge#
--Navigate to light emitting beacon
--Avoid or traverse various obstacles
--Team that completes each course in the least time wins
+
+*Navigate to light emitting beacon
+*Avoid or traverse various obstacles
+*Team that completes each course in the least time wins
 
 </section>
 <section>
 
 ##Requirements#
--Fully autonomous robot
--Max height 15cm
--Less than 0.5 Kg
--Safe
+
+*Fully autonomous robot
+*Max height 15cm
+*Less than 0.5 Kg
+*Safe
 
 </section>
 <section>
 
 #Stewardship
--Facilities
--Tools
--Reusable components
-=Consumable Supplies
+
+*Facilities
+*Tools
+*Reusable components
+*Consumable Supplies
 
 </section>
 <section>
