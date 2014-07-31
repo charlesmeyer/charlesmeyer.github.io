@@ -7,8 +7,6 @@ tags: "slides physics"
 				<section>
 					<h1>Chapter 1</h1>
 					<h3>Cool stuff</h3>
-					<p></p>
-					<img src="Electromagneticwave3Dfromside.gif">
 					<p>
 						<small>Created by <a href="http://hakim.se">Hakim El Hattab</a> / <a href="http://twitter.com/hakimel">@hakimel</a></small>
 					</p>
@@ -37,9 +35,6 @@ tags: "slides physics"
 						<a href="#" class="image navigate-down">
 							<img width="178" height="238" src="https://s3.amazonaws.com/hakim-static/reveal-js/arrow.png" alt="Down arrow">
 						</a>
-					</section>
-					<section>
-											
 					</section>
 					<section>
 						<h2>Basement Level 1</h2>
