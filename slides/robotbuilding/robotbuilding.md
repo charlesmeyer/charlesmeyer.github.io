@@ -27,13 +27,6 @@ published: true
 </section>
 <section>
 
-##This is a test
-
-![](/slides/robotbuilding/Image.jpg)
-
-</section>
-<section>
-
 ##Requirements#
 
 * Fully autonomous robot
