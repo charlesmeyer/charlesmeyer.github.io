@@ -1,7 +1,8 @@
 ---
 layout: presentation
-title: "Introduction to Robotics"
-tags: "slides robotics"
+title: Introduction to Robotics
+tags: slides robotics
+published: true
 ---
 
 <section>
@@ -24,6 +25,10 @@ tags: "slides robotics"
 * Team that completes each course in the least time wins
 
 </section>
+<section>
+##This is a test
+![](/slides/robotbuilding/Image.jpg)
+<section>
 <section>
 
 ##Requirements#
