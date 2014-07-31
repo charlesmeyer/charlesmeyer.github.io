@@ -28,7 +28,7 @@ published: true
 <section>
 ##This is a test
 ![](/slides/robotbuilding/Image.jpg)
-<section>
+</section>
 <section>
 
 ##Requirements#
