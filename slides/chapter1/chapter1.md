@@ -2,6 +2,7 @@
 
 
 
+<!-- .slide: data-background="#ff0000" -->
 #Another Page
 
 
@@ -13,15 +14,15 @@ WHat else
 
 
 Things
-
+^Note: This is a note
 
 
 This is it
 
-- Testing
-- Testing $1^3$
-- Another
-- Stuff and more stuff
+- Testing <!-- .element: class="fragment" data-fragment-index="1" -->
+- Testing $1^3$ <!-- .element: class="fragment" data-fragment-index="2" -->
+- Another <!-- .element: class="fragment" data-fragment-index="4" -->
+- Stuff and more stuff <!-- .element: class="fragment" data-fragment-index="3" -->
 
 
 
