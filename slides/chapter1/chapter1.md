@@ -32,7 +32,9 @@ This is it
 
 
 
+<section>
 ![](Gripper_display_large.jpg) <!-- .element: class="stretch"-->
+</section>
 
 
 
