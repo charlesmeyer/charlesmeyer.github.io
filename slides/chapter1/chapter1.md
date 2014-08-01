@@ -10,7 +10,7 @@
 ###What??
 
 
-WHat else
+What else
 
 
 
@@ -23,6 +23,14 @@ $$x_f=x_i+v_it+\frac{1}{2}at^2$$
 
 
 
+x   |   y | t
+--- | --- | ---
+1.3 | 1.5 | 4.6
+1.5 | 1.6 | 4.9
+1.7 | 1.7 | 4.12
+
+
+
 This is it
 
 - Testing <!-- .element: class="fragment"-->
@@ -32,9 +40,7 @@ This is it
 
 
 
-<section>
 ![](Gripper_display_large.jpg) <!-- .element: class="stretch"-->
-</section>
 
 
 
