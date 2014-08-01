@@ -4,13 +4,21 @@
 
 <!-- .slide: data-background="#ff0000" -->
 #Another Page
-
+![](Gripper_display_large.jpg)
 
 
 ###What??
 
 
 What else
+
+
+
+##Things
+
+- item
+- item
+- item
 
 
 
