@@ -1,5 +1,5 @@
 ---
-layout: presentation
+layout: page
 title: "Chapter 3"
 tags: "slides physics"
 ---
