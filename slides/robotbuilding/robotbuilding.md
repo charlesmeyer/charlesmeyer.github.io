@@ -1,5 +1,5 @@
 ---
-layout: presentation
+layout: page
 title: Introduction to Robotics
 tags: slides robotics
 published: true
