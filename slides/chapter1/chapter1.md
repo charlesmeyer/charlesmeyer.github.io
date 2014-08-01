@@ -32,7 +32,7 @@ This is it
 
 
 
-![](Gripper_display_large.jpg)
+![](Gripper_display_large.jpg) <!-- .element: class="stretch"-->
 
 
 
