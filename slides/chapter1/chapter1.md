@@ -24,7 +24,7 @@ This is a note
 This is it
 
 - Testing <!-- .element: class="fragment"-->
-- Testing $1^3$ <!-- .element: class="fragment"-->
+- Testing 1<sup>3</sup> <!-- .element: class="fragment"-->
 - Another <!-- .element: class="fragment"-->
 - Stuff and more stuff <!-- .element: class="fragment"-->
 
