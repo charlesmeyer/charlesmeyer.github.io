@@ -14,10 +14,12 @@ tags: "slides physics"
 
 Things to know
 -----------
-- Math {: .test}
+- Math
 - Logic
 - New Stuff
-- Old Stuff
+- Old Stuff 
+{: .test}
+
 </section>
 <section>
 You can find more [here](http://google.com).
@@ -30,7 +32,8 @@ You can find more [here](http://google.com).
 </section>
 <section>
 
-![](Speed_of_light.PNG) {: .print}
+![](Speed_of_light.PNG) 
+{: .print}
 
 #The experiment
 
@@ -40,7 +43,7 @@ You can find more [here](http://google.com).
 ##Some stuff
 
 1. things
-2. more things \(x^2\)
+2. more things \($$x^2$$\)
 3. other stuff
 
 </section>
@@ -89,11 +92,12 @@ $$
 </section>
 <section>
 
-$$ {: #big }
+$$ 
 \begin{aligned}
 f & = m a \\
 a & = \frac{f}{m} \\
 & = \frac{12.7N}{3.5\times10^5kg} = 3.6\times10^{-5} m/s^2 \end{aligned}
 $$
+{: #big }
 
 </section>
