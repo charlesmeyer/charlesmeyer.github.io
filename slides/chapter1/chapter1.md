@@ -18,6 +18,8 @@ Things
 
 Note: 
 This is a note
+THis is more
+$$x_f=x_i+v_it+\frac{1}{2}at^2$$
 
 
 
