@@ -19,7 +19,7 @@ Things
 This is it
 
 - Testing
-- Testing /$$1^3$$
+- Testing $1^3$
 - Another
 - Stuff and more stuff
 
