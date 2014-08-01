@@ -1,9 +1,3 @@
----
-layout: page
-title: "Chapter 1 - notes"
-description: ""
-tags: "physics"
----
 ##Test
 
 
