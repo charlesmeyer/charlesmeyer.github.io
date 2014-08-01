@@ -14,7 +14,7 @@ tags: "slides physics"
 
 Things to know
 -----------
-- Math
+- Math {: .test}
 - Logic
 - New Stuff
 - Old Stuff
@@ -30,7 +30,7 @@ You can find more [here](http://google.com).
 </section>
 <section>
 
-![](Speed_of_light.PNG)
+![](Speed_of_light.PNG) {: .print}
 
 #The experiment
 
@@ -89,7 +89,7 @@ $$
 </section>
 <section>
 
-$$
+$$ {: #big }
 \begin{aligned}
 f & = m a \\
 a & = \frac{f}{m} \\
