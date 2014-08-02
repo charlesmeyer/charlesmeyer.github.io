@@ -1,5 +1,76 @@
-##Test
+# Chapter 1
+## Foundations of Physics
 
+
+
+##Goals
+
+- 
+
+
+
+## **1A** Why Study Physics
+
+
+
+>“... have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth.” _Genesis 1:28_
+
+
+
+## **1B** What is Physics?
+
+
+
+## Science
+
+
+
+## Hypothesis
+
+
+
+## Theory
+
+
+
+## Law
+
+
+
+## Empirical Science
+
+
+
+## Model
+
+
+
+## Paradigm
+
+
+
+### _The Structure of Scientific Revolutions_
+Thomas Kuhn
+
+
+
+## Classical Physics
+
+
+
+## Modern Physics
+
+
+
+## **1C** How do <span style="color: red;" class="fragment">good</span> Physicists Work?
+
+
+
+### Tests of a good hypothesis?
+- Reasonable
+- Testable
+- Should not contradict established principles
+- Explain current observations and predict new ones 
 
 
 <!-- .slide: data-background="#ff0000" -->
