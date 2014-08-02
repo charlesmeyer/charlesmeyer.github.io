@@ -13,7 +13,7 @@
 
 
 
->“... have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth.” _Genesis 1:28_
+>"... have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth." _Genesis 1:28_
 
 
 
@@ -66,11 +66,12 @@ Thomas Kuhn
 
 
 
-### Tests of a good hypothesis?
+### A good (workable) hypothesis
 - Reasonable
 - Testable
-- Should not contradict established principles
+- Should not ~~contradict~~ established principles
 - Explain current observations and predict new ones 
+- Simple as posible
 
 
 <!-- .slide: data-background="#ff0000" -->
@@ -79,7 +80,8 @@ Thomas Kuhn
 
 
 ###What??
-
+- [x] Do something
+- [ ] Something else
 
 What else
 
