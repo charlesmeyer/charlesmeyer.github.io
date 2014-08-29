@@ -3,9 +3,12 @@
 
 
 
-##Goals
+## Goals
 
-- 
+- Understand key terms used in science and physics
+- Understand the scientific method
+- Know how science can go wrong (vs. scientific ideal)
+- Be able to identify why a hypothesis of theory is unusable
 
 
 
@@ -30,10 +33,12 @@ from Latin scientia, meaning "knowledge" <!-- .element: class="fragment"-->
 
 
 ![](Francis_Bacon.jpg)
+
 Francis Bacon
 
 
 ![](Rene_Descartes.jpg)
+
 René Descartes (Latinized: Renatus Cartesius)
 
 
@@ -60,6 +65,7 @@ a proposed _testable_ explanation for a phenomenon <!-- .element: class="fragmen
 > Science based _observation_ or _experimentation_ <!-- .element: class="fragment"-->
 
 
+
 ## Model
 
 > A usable simplified reflection of reality
@@ -75,7 +81,9 @@ a proposed _testable_ explanation for a phenomenon <!-- .element: class="fragmen
 Thomas Kuhn
 ![](Structure-of-scientific-revolutions.jpg)
 
+
 > "Successive transition from one paradigm to another via revolution is the usual developmental pattern of mature science."
+
 
 
 ## Classical Physics
@@ -88,8 +96,8 @@ Thomas Kuhn
 
 ## **1C** How do <span style="color: red;" class="fragment">good</span> Physicists Work?
 
-
 ![](Gravitational_lens-full.jpg)
+
 
 
 ### A good (workable) hypothesis
