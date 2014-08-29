@@ -27,7 +27,7 @@
 ## Science
 
 
-> Science is a systematic enterprise that builds and organizes knowledge in the form of testable explanations and predictions about the universe. <!-- .element: class="fragment"-->
+> Science is a systematic enterprise that builds and organizes knowledge in the form of testable explanations and predictions about the universe.
 
 from Latin scientia, meaning "knowledge" <!-- .element: class="fragment"-->
 
@@ -39,31 +39,30 @@ Francis Bacon
 
 ![](Rene_Descartes.jpg)
 
-René Descartes (Latinized: Renatus Cartesius)
+Rene Descartes (Latinized: Renatus Cartesius)
 
 
 
 ## Hypothesis
-a proposed _testable_ explanation for a phenomenon <!-- .element: class="fragment"-->
+a proposed _testable_ explanation for a phenomenon
 
 
 
 ## Theory
 
-> A rigorously developed framework that explains and predicts _why_ many phenomena take place<!-- .element: class="fragment"-->
+> A rigorously developed framework that explains and predicts _why_ many phenomena take place
 
 
 
 ## Law
 
-> A descriptive account of _how_ nature will behave under certain conditions <!-- .element: class="fragment"-->
+> A descriptive account of _how_ nature will behave under certain conditions
 
 
 
 ## Empirical Science
 
-> Science based _observation_ or _experimentation_ <!-- .element: class="fragment"-->
-
+> Science based _observation_ or _experimentation_
 
 
 ## Model
