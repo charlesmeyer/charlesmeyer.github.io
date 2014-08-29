@@ -32,14 +32,12 @@
 from Latin scientia, meaning "knowledge" <!-- .element: class="fragment"-->
 
 
-![](Francis_Bacon.jpg)
-
 Francis Bacon
+![Francis Bacon](Francis_Bacon.jpg)
 
-
-![](Rene_Descartes.jpg)
 
 Rene Descartes (Latinized: Renatus Cartesius)
+![Rene Descartes](Rene_Descartes.jpg)
 
 
 
