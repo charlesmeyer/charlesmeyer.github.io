@@ -8,7 +8,7 @@
 - Understand key terms used in science and physics
 - Understand the scientific method
 - Know how science can go wrong (vs. scientific ideal)
-- Be able to identify why a hypothesis of theory is unusable
+- Be able to identify why a hypothesis or theory is unusable
 
 
 
