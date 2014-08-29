@@ -67,16 +67,18 @@ Thomas Kuhn
 
 
 ### A good (workable) hypothesis
-- Reasonable
-- Testable
-- Should not ~~contradict~~ established principles
-- Explain current observations and predict new ones 
-- Simple as posible
+- Reasonable <!-- .element: class="fragment"-->
+- Testable <!-- .element: class="fragment"-->
+- Should not ~~contradict~~ established principles <!-- .element: class="fragment"-->
+- Explain current observations and predict new ones <!-- .element: class="fragment"-->
+- Simple as posible <!-- .element: class="fragment"-->
+
 
 
 <!-- .slide: data-background="#ff0000" -->
 #Another Page
 ![](Gripper_display_large.jpg)
+
 
 
 ###What??
