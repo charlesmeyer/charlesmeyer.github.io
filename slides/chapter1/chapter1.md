@@ -102,7 +102,7 @@ Thomas Kuhn
 ### A good (workable) hypothesis
 - Reasonable <!-- .element: class="fragment"-->
 - Testable <!-- .element: class="fragment"-->
-- Should not ~~contradict~~ established principles <!-- .element: class="fragment"-->
+- Should not contradict established principles <!-- .element: class="fragment"-->
 - Explain current observations and predict new ones <!-- .element: class="fragment"-->
 - Simple as possible <!-- .element: class="fragment"-->
 
