@@ -7,8 +7,8 @@
 
 - Solve problems using the definitions of displacement, velocity, and acceleration
 - Create and interpret graphs of position velocity and acceleration vs. time 
-- User the three equations of motion to solve problems involving constant acceleration 
-- User a computer to simulate and graph basic motion
+- Use the three equations of motion to solve problems involving constant acceleration 
+- Use a computer to simulate and graph basic motion
 - Know symbols, SI units, and terms related to the physics of motion 
 
 
