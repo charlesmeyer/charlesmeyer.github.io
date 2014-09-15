@@ -35,6 +35,6 @@ Why objects move - Chapters 6-12  <!-- .element: class="fragment"-->
 
 
 
-**d** ***\equiv *** displacement
+**d** $$\equiv $$ displacement
 
 Change in position - vector 
