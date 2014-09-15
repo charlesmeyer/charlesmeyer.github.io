@@ -50,7 +50,7 @@ Displacement is not dependent on path
 
 $\Delta x \equiv $ change in x i.e. $d_{x}$
 
-$$d_{x} = \Delta x = x_{f} - x_{i}$$
+$$ d_{x} = \Delta x = x_{f} - x_{i} $$
 
 
 
