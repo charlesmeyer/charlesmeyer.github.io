@@ -38,3 +38,24 @@ Why objects move - Chapters 6-12  <!-- .element: class="fragment"-->
 **d** $\equiv $ displacement
 
 Change in position - vector 
+
+
+
+$d_{x} \equiv$ displacement in the x direction
+
+
+Displacement is not dependent on path
+
+
+
+$\Delta x \equiv $ change in x i.e. $d_{x}$
+
+$$d_{x} = \Delta x = x_{f} - x_{i}$$
+
+
+
+Ex: Usain Bolt starts 0.32m behind the starting line and crosses the finish line at 100.0m. What is his displacement?
+
+
+
+Ex: A golf ball is dropped from 0.50m above the ground. After 0.04s, the ball is 0.393m above the ground. What is the ball's displacement?
