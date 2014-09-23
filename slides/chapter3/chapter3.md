@@ -59,3 +59,35 @@ Ex: Usain Bolt starts 0.32m behind the starting line and crosses the finish line
 
 
 Ex: A golf ball is dropped from 0.50m above the ground. After 0.04s, the ball is 0.393m above the ground. What is the ball's displacement?
+
+
+
+$$speed = \frac{distance}{time}$$
+
+
+
+Velocity: Speed with direction
+
+
+$$\bar{v} = \frac{\Delta x}{\Delta t}
+
+Average velosity is defined as change in position devided by change in time
+
+
+More gereally
+
+$$\bar{v} = \frac{\mathbf{d}}{\Delta t}$$
+
+
+$$speed = \frac{\left |\Delta {x}  \right |}{\Delta t}$$
+
+
+
+Ex: Usain Bolt set the world record for the 100m dash in 2009 with a tine of 9.58 seconds. Shat was his average velosity?
+
+10.4697m/s <!-- .element: class="notes"  -->
+
+
+
+
+
