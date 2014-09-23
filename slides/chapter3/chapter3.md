@@ -85,7 +85,8 @@ $$speed = \frac{\left |\Delta {x}  \right |}{\Delta t}$$
 
 Ex: Usain Bolt set the world record for the 100m dash in 2009 with a tine of 9.58 seconds. Shat was his average velosity?
 
-^Note: 10.4697m/s
+Note:
+10.4697m/s
 
 
 
