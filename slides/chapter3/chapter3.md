@@ -90,5 +90,10 @@ Note:
 
 
 
+Ex: You are measuring the muzzle velosity of a bullet by using a high speed camera. At 0.0200s into the video, the bullet is 0.002m from the muzzle. At 0.0220s, the bullet is 0.603m from the muzzle. What is the average velosity of the bullet?
+
+Note: 
+300.5m/s +- 10m/s 
+
 
 
