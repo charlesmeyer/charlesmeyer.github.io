@@ -123,4 +123,4 @@ Acceleration: Changing Velocity
 $$\bar{\boldsymbol{a}} = \frac{\Delta {\boldsymbol{v}}}{\Delta t}$$
 
 
-$$ \Delta \mathit{v} = v_{f} - v_{i} $$
+$$\Delta{\mathit{v}} = v\_{f} - v\_{i}$$
