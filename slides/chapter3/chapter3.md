@@ -69,7 +69,7 @@ $$speed = \frac{distance}{time}$$
 Velocity: Speed with direction
 
 
-$$\bar{v} = \frac{\Delta x}{\Delta t}
+$$\bar{v} = \frac{\Delta x}{\Delta t}$$
 
 Average velosity is defined as change in position devided by change in time
 
@@ -85,7 +85,7 @@ $$speed = \frac{\left |\Delta {x}  \right |}{\Delta t}$$
 
 Ex: Usain Bolt set the world record for the 100m dash in 2009 with a tine of 9.58 seconds. Shat was his average velosity?
 
-10.4697m/s <!-- .element: class="notes"  -->
+^Note: 10.4697m/s
 
 
 
