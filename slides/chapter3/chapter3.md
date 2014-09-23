@@ -106,13 +106,13 @@ Determining Velocity Graphically
 __Average Velocity__ is the slope of a live connecting two points on a position/time graph.
 
 
-![](graph_04.PNG)
+![](graph_04.png)
 
 
 __Instantaneous velocity__ is the slope of the tangent line on a point of the position/time graph.
 
 
-![](graph_06.PNG)
+![](graph_06png)
 
 
 
