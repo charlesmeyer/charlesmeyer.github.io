@@ -112,7 +112,7 @@ __Average Velocity__ is the slope of a live connecting two points on a position/
 __Instantaneous velocity__ is the slope of the tangent line on a point of the position/time graph.
 
 
-![](graph_06png)
+![](graph_06.png)
 
 
 
@@ -123,4 +123,4 @@ Acceleration: Changing Velocity
 $$\bar{\boldsymbol{a}} = \frac{\Delta {\boldsymbol{v}}}{\Delta t}$$
 
 
-$$\Delta {\mathit{v}} = v_{f} - v_{i}$$
+$$ \Delta \mathit{v} = v_{f} - v_{i} $$
