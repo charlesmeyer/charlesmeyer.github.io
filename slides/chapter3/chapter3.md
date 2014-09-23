@@ -97,3 +97,11 @@ Note:
 
 
 
+Determining Velosity Graphically
+
+
+![](graph-v.PNG)
+
+
+
+
