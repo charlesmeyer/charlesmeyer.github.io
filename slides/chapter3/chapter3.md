@@ -71,7 +71,7 @@ Velocity: Speed with direction
 
 $$\bar{v} = \frac{\Delta x}{\Delta t}$$
 
-Average velosity is defined as change in position devided by change in time
+Average velocity is defined as change in position devided by change in time
 
 
 More gereally
@@ -83,25 +83,36 @@ $$speed = \frac{\left |\Delta {x}  \right |}{\Delta t}$$
 
 
 
-Ex: Usain Bolt set the world record for the 100m dash in 2009 with a tine of 9.58 seconds. Shat was his average velosity?
+Ex: Usain Bolt set the world record for the 100m dash in 2009 with a tine of 9.58 seconds. What was his average velocity?
 
 Note:
 10.4697m/s
 
 
 
-Ex: You are measuring the muzzle velosity of a bullet by using a high speed camera. At 0.0200s into the video, the bullet is 0.002m from the muzzle. At 0.0220s, the bullet is 0.603m from the muzzle. What is the average velosity of the bullet?
+Ex: You are measuring the muzzle velocity of a bullet by using a high speed camera. At 0.0200s into the video, the bullet is 0.002m from the muzzle. At 0.0220s, the bullet is 0.603m from the muzzle. What is the average velosity of the bullet?
 
 Note: 
 300.5m/s +- 10m/s 
 
 
 
-Determining Velosity Graphically
+Determining Velocity Graphically
 
 
 ![](graph-v.PNG)
 
+
+__Average Velocity__ is the slope of a live connecting two points on a position/time graph.
+
+
+![](graph_04.PNG)
+
+
+__Instantaneous velocity__ is the slope of the tangent line on a point of the position/time graph.
+
+
+![](graph_06.PNG)
 
 
 
