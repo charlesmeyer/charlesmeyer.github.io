@@ -116,3 +116,11 @@ __Instantaneous velocity__ is the slope of the tangent line on a point of the po
 
 
 
+Acceleration: Changing Velocity
+
+
+
+$$\bar{\boldsymbol{a}} = \frac{\Delta {\boldsymbol{v}}}{\Delta t}$$
+
+
+$$\Delta {\mathit{v}} = v_{f} - v_{i}$$
