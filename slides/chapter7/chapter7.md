@@ -32,6 +32,7 @@ Ex: If David swung his sling 4 and a half times before releasing the stone in th
 $$ \omega = \frac{\Delta \theta }{\Delta t} $$
 
 
+
 ## Angular Acceleration
 
 $$ \alpha  = \frac{\Delta \omega }{\Delta t} $$
@@ -50,11 +51,10 @@ $$ \alpha = 0 $$
 
 ## Centripetal Acceleration
 
-
 $$ \bar{a} = \frac{v\_{t}^{2}}{r} $$
 
-
 $$ \mathbf{a}\_{c} = -\mathbf{r}\omega^{2} $$
+
 
 
 ## **7B** Dynamics of Circular Motion
