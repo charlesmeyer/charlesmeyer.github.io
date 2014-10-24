@@ -1,15 +1,14 @@
-# Chapter 4
-## Vectors and Scalars
+# Chapter 7
+## Circular Motion
 
 
 
 ## Goals
 
-- Key concepts, principles, and representation of vectors
-- Preform vector operations graphically
-- Decompose and compose vectors using trig functions
-- Do operations on vectors mathematically
-- Why we are using vectors?
+- Know units used in circular motion
+- Be able to calculate angular velocity and acceleration for uniform circular motion
+- Be able to calculate centripetal force
+- Use the universal law of gravity
 
 
 
