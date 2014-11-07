@@ -1,7 +1,7 @@
 # Chapter 8
 ## asdf
 
-
+---
 
 ## Goals
 
@@ -10,6 +10,6 @@
 - Be able to calculate centripetal force
 - Use the universal law of gravity
 
-
+---
 
 ## **8A** asdf
