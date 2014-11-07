@@ -58,7 +58,3 @@ $$ \mathbf{a}\_{c} = -\mathbf{r}\omega^{2} $$
 
 
 ## **7B** Dynamics of Circular Motion
-
-
-
-
