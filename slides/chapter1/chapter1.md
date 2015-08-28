@@ -96,6 +96,45 @@ Thomas Kuhn
 ![](Gravitational_lens-full.jpg)
 
 
+![](Slide1.JPG)
+
+
+![](Slide2.JPG)
+
+
+<!-- .slide: data-background="Slide2.JPG" -->
+
+
+![](Slide3.JPG)
+
+
+<!-- .slide: data-background="#ff0000" -->
+
+
+![](Slide4.JPG)
+
+
+![](Slide5.JPG)
+
+
+![](Slide6.JPG)
+
+
+![](Slide7.JPG)
+
+
+![](Slide8.JPG)
+
+
+![](Slide9.JPG)
+
+
+![](Slide10.JPG)
+
+
+![](Slide11.JPG)
+
+
 
 ### A good (workable) hypothesis
 - Reasonable <!-- .element: class="fragment"-->
