@@ -96,43 +96,39 @@ Thomas Kuhn
 ![](Gravitational_lens-full.jpg)
 
 
-![](Slide1.JPG)
-
-
-![](Slide2.JPG)
+<!-- .slide: data-background="Slide2.JPG" -->
 
 
 <!-- .slide: data-background="Slide2.JPG" -->
 
 
-![](Slide3.JPG)
+<!-- .slide: data-background="Slide2.JPG" -->
 
 
-<!-- .slide: data-background="#ff0000" -->
+<!-- .slide: data-background="Slide2.JPG" -->
 
 
-![](Slide4.JPG)
+<!-- .slide: data-background="Slide2.JPG" -->
 
 
-![](Slide5.JPG)
+<!-- .slide: data-background="Slide2.JPG" -->
 
 
-![](Slide6.JPG)
+<!-- .slide: data-background="Slide2.JPG" -->
 
 
-![](Slide7.JPG)
+<!-- .slide: data-background="Slide2.JPG" -->
 
 
-![](Slide8.JPG)
+<!-- .slide: data-background="Slide2.JPG" -->
 
 
-![](Slide9.JPG)
+<!-- .slide: data-background="Slide2.JPG" -->
 
 
-![](Slide10.JPG)
+<!-- .slide: data-background="Slide2.JPG" -->
 
 
-![](Slide11.JPG)
 
 
 
