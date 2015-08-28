@@ -35,8 +35,6 @@ from Latin scientia, meaning "knowledge" <!-- .element: class="fragment"-->
 Francis Bacon
 ![Francis Bacon](Francis_Bacon.jpg)
 
-![test](Francis_Bacon.jpg)
-
 
 Rene Descartes (Latinized: Renatus Cartesius)
 ![Rene Descartes](Rene_Descartes.jpg)
@@ -62,7 +60,7 @@ a proposed _testable_ explanation for a phenomenon
 
 ## Empirical Science
 
-> Science based _observation_ or _experimentation_
+> Science based on _observation_ or _experimentation_
 
 
 ## Model
