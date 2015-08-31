@@ -38,7 +38,7 @@ Unit: meter (m) - Distance travled by light in 1/299792458 seconds
 
 Unit: second (s) - 9192631770 cycles of oscillating cesium-133 atoms
 
-Symbol in equations: t <!-- .element: class="fragment"-->
+Symbol in equations: t
 
 
 
@@ -46,7 +46,7 @@ Symbol in equations: t <!-- .element: class="fragment"-->
 
 Unit: kilogram (kg) - mass of platinum indium standard kilogram cylinder at the International Bureau of Weights and Measures
 
-Symbol in equations: m <!-- .element: class="fragment"-->
+Symbol in equations: m
 
 
 
@@ -54,7 +54,7 @@ Symbol in equations: m <!-- .element: class="fragment"-->
 
 Unit: kelvin (K) - 1/273.16 of the thermodynamic temperature of the triple point of water.
 
-Symbol in equations: T <!-- .element: class="fragment"-->
+Symbol in equations: T
 
 
 
@@ -62,7 +62,7 @@ Symbol in equations: T <!-- .element: class="fragment"-->
 
 Unit: mole (mol.) - as many elementary entities as there are atoms in 0.012 kilogram of carbon 12
 
-Symbol in equations: n <!-- .element: class="fragment"-->
+Symbol in equations: n
 
 
 
@@ -70,15 +70,14 @@ Symbol in equations: n <!-- .element: class="fragment"-->
 
 Unit: ampere (A) - constant current which, if maintained in two straight parallel conductors of infinite length, of negligible circular cross-section, and placed 1 meter apart in vacuum, would produce between these conductors a force equal to 2 x 10-7 newton per meter of length
 
-Symbol in equations: I <!-- .element: class="fragment"-->
-
+Symbol in equations: I
 
 
 ## luminous intensity
 
 Unit: candela (cd) - luminous intensity, in a given direction, of a source that emits monochromatic radiation of frequency 540 x 10<sup>12</sup> hertz and that has a radiant intensity in that direction of 1/683 watt per square radian.
 
-Symbol in equations: I<sub>L</sub> <!-- .element: class="fragment"-->
+Symbol in equations: I<sub>L</sub>
 
 
 
