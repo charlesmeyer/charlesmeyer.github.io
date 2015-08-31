@@ -73,12 +73,12 @@ Unit: ampere (A) - constant current which, if maintained in two straight paralle
 Symbol in equations: I <!-- .element: class="fragment"-->
 
 
+
 ## luminous intensity
 
 Unit: candela (cd) - luminous intensity, in a given direction, of a source that emits monochromatic radiation of frequency 540 x 10<sup>12</sup> hertz and that has a radiant intensity in that direction of 1/683 watt per square radian.
 
 <p>Symbol in equations: I<sub>L</sub></p>
-
 
 
 
