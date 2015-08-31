@@ -30,7 +30,7 @@
 
 Unit: meter (m) - Distance travled by light in 1/299792458 seconds
 
-Symbol in equations: *d*, r, s, l, w, x, y, etc. <!-- .element: class="fragment"-->
+<p>Symbol in equations: *d*, r, s, l, w, x, y, etc.</p> <!-- .element: class="fragment"-->
 
 
 
