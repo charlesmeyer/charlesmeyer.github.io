@@ -111,4 +111,87 @@ m<sup>2</sup>, m/s, etc/
 
 
 
+## Scientific Notation
+
+
+
+![](1084-002.png)
+
+
+
+![](calc1.jpg)
+
+
+
+![](calc2.jpg)
+
+
+
+![](calc3.jpg)
+
+
+
+![](calc4.jpg)
+
+
+
+## Metric Prefixes
+
+
+
+![](metric.gif)
+
+
+
 ## Unit conversion
+
+
+
+Ex: Convert 4.35 cm to m
+
+
+
+Ex: Convert 23.4 feet to m
+
+
+
+Ex: Convert 45 mph to m/s
+
+
+
+## Accuracy
+
+
+### Percent Error
+
+
+
+## Precision
+
+
+
+## 2C Truth in measurements and calculations
+
+
+
+## Significant Digits
+
+
+
+## Rounding after mathematical operations
+
+
+
+### Math Rule 1 - Adding and Subtracting
+
+
+
+### Math Rule 2 - Multiplying and Dividing
+
+
+
+### Math Rule 3 - Compound Calculations
+
+
+
+### Math Rule 4 - Angles and Trigonometry
