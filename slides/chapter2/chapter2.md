@@ -92,4 +92,23 @@ m<sup>2</sup>, m/s, etc/
 
 
 
+##Taking measurements
+
+
+![](ruler.gif)
+
+
+![](ruler2.jpg)
+
+
+![](uncertainty_vernier.jpg)
+
+
+![](micrometer.png)
+
+
+![](CM-79-3.jpg)
+
+
+
 ## Unit conversion
