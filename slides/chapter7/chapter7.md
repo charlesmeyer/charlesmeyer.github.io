@@ -58,9 +58,11 @@ Ex: The output shaft on a power chair drive gearmotor rotates at 210RPM. What is
 
 ### Angular to Linear Velocity 
 
-
-
 ![](LinearSpeedWheel.png)
+
+
+
+Ex: What is the maximum speed of the power chair if it has 15 inch (0.381m) tires?
 
 
 
@@ -82,6 +84,10 @@ $$ \alpha = 0 $$
 
 ## Centripetal Acceleration
 
+![](deltav.gif)
+
+
+
 $$ \bar{a} = \frac{v\_{t}^{2}}{r} $$
 
 $$ \mathbf{a}\_{c} = -\mathbf{r}\omega^{2} $$
@@ -90,5 +96,20 @@ $$ \mathbf{a}\_{c} = -\mathbf{r}\omega^{2} $$
 
 ## **7B** Dynamics of Circular Motion
 
+
+
+## Centripetal Force
+
+$$ F_c = \frac{mv_{t}^{2}}{r} $$
+
+
+
+### Torque
+
+$$ \tau = rF  $$
+
+If F is not pulling at a right angle:
+
+$$ \tau = rF sin\theta  $$
 
 
