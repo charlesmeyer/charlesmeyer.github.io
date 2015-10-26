@@ -14,7 +14,10 @@
 
 
 ### Home work
+Terms: Angular Velocity, Tangential Velocity,  Angular Acceleration, Centripetal Acceleration, Centripetal Force, Uniform Circular Motion
 pg 145 #4, 6
+pg 150 #5
+pg 161 #46
 
 
 
@@ -42,13 +45,15 @@ $$ \omega = \frac{\Delta \theta }{\Delta t} $$
 
 
 
+Ex: If it takes 0.85s for the wheel of a robot to complete one rotataton, what is the angular velocity of the wheel?
+
+
 
 ![](FG11_16.JPG)
 
 
 
-
-Ex: If it takes 0.85s for the wheel of a robot to complete one rotataton, what is the angular velocity of the wheel?
+Ex: What is the angular velocity of the earth?
 
 
 
@@ -62,7 +67,7 @@ Ex: If it takes 0.85s for the wheel of a robot to complete one rotataton, what i
 
 
 
-Ex: The output shaft on a power chair drive gearmotor rotates at 210RPM. What is the angular valocity in IS units?
+Ex: The output shaft on a power chair drive gear motor rotates at 210RPM. What is the angular velocity in SI units?
 
 
 
@@ -73,6 +78,10 @@ Ex: The output shaft on a power chair drive gearmotor rotates at 210RPM. What is
 
 
 Ex: What is the maximum speed of the power chair if it has 15 inch (0.381m) tires?
+
+
+
+Ex: What is the velocity of a person standing on the surface of earth?
 
 
 
@@ -126,3 +135,27 @@ If F is not pulling at a right angle:
 $$ \tau = rF sin\theta  $$
 
 
+
+If the above wheelchair motors have a max Torque of 45 Nm, what is the forward force on the chair?
+
+
+
+## **7C** Universal Gravitation
+
+
+
+$$ F\_g = G\frac{m\_1 m\_2}{r^2} $$
+
+$$ G = 6.674 \times 10^{-11} N\cdot m^2/kg^2 %%
+
+
+
+![](Cavendish_Experiment.png)
+
+
+
+Ex: How fast will an 1.5 kg object fall on earth?
+
+
+
+Ex: What is the mass of earth?
