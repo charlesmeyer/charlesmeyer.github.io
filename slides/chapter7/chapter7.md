@@ -47,6 +47,8 @@ Ex: If it takes 0.85s for the wheel of a robot to complete one rotataton, what i
 
 
 
+
+<!-- .slide: data-background="#ffffff" -->
 ![](s-l1600.jpg)
 
 
