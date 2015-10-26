@@ -23,6 +23,7 @@ pg 145 #4, 6
 
 
 
+
 ### Position In Circular motion
 
 * Position is measured as a vector, $\mathbf{r}$
@@ -41,6 +42,12 @@ $$ \omega = \frac{\Delta \theta }{\Delta t} $$
 
 
 
+
+![](FG11_16.JPG)
+
+
+
+
 Ex: If it takes 0.85s for the wheel of a robot to complete one rotataton, what is the angular velocity of the wheel?
 
 
@@ -48,11 +55,7 @@ Ex: If it takes 0.85s for the wheel of a robot to complete one rotataton, what i
 ![](BM3-drive-small.jpg)
 
 
-
-
-<!-- .slide: data-background="#ffffff" -->
 ![](s-l1600.jpg)
-
 
 
 ![](R702-A15.JPG)
@@ -91,6 +94,9 @@ $$ \alpha = 0 $$
  
 ## Centripetal Acceleration
 
+
+
+<!-- .slide: data-background="#ffffff" -->
 ![](deltav.gif)
 
 
