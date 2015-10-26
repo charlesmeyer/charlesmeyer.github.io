@@ -105,7 +105,7 @@ $$ \mathbf{a}\_{c} = -\mathbf{r}\omega^{2} $$
 
 ## Centripetal Force
 
-$$ F_c = \frac{mv_{t}^{2}}{r} $$
+$$ F\_c = \frac{mv\_{t}^{2}}{r} $$
 
 
 
