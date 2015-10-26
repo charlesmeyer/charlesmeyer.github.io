@@ -11,8 +11,10 @@
 - Use the universal law of gravity
 
 
+
 ### Home work
 pg 145 #4, 6
+
 
 
 ## **7A** Circular Motion
@@ -24,6 +26,7 @@ pg 145 #4, 6
 * Position is measured as a vector, $\mathbf{r}$
 * Rotation is measured as an angle, $\theta$ , in radians
 * Distance from centre is ,$ \mathit{r}$ , in meters
+
 
 
 Ex: If David swung his sling 4 and a half times before releasing the stone in the direction of the giant, what was the total rotational displacement of the sling?
@@ -81,7 +84,7 @@ $$ \alpha = 0 $$
 ## Equations of Circular Motion
 
 
-
+ 
 ## Centripetal Acceleration
 
 ![](deltav.gif)
