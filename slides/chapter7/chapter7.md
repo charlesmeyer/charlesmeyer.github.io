@@ -40,7 +40,27 @@ Ex: If it takes 0.85s for the wheel of a robot to complete one rotataton, what i
 
 
 
+![](BM3-drive-small.jpg)
+
+
+
+![](s-l1600.jpg)
+
+
+
+![](R702-A15.JPG)
+
+
+
 Ex: The output shaft on a power chair drive gearmotor rotates at 210RPM. What is the angular valocity in IS units?
+
+
+
+### Angular to Linear Velocity 
+
+
+
+![](LinearSpeedWheel.png)
 
 
 
