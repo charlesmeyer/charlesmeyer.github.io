@@ -11,6 +11,9 @@
 - Use the universal law of gravity
 
 
+### Home work
+pg 145 #4, 6
+
 
 ## **7A** Circular Motion
 
@@ -30,6 +33,14 @@ Ex: If David swung his sling 4 and a half times before releasing the stone in th
 ## Angular Velocity
 
 $$ \omega = \frac{\Delta \theta }{\Delta t} $$
+
+
+
+Ex: If it takes 0.85s for the wheel of a robot to complete one rotataton, what is the angular velocity of the wheel?
+
+
+
+Ex: The output shaft on a power chair drive gearmotor rotates at 210RPM. What is the angular valocity in IS units?
 
 
 
@@ -58,3 +69,6 @@ $$ \mathbf{a}\_{c} = -\mathbf{r}\omega^{2} $$
 
 
 ## **7B** Dynamics of Circular Motion
+
+
+
